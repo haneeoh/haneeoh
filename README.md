@@ -2,13 +2,13 @@
 <h3 align="center">A passionate developer from Korea</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jw6963&label=Profile%20views&color=0e75b6&style=flat" alt="jw6963" />
+  <img src="https://komarev.com/ghpvc/?username=haneeoh&label=Profile%20views&color=0e75b6&style=flat" alt="haneeoh" />
 </p>
 
 - 🔭 I’m currently working on **[-]**
-- 🌱 I’m currently learning **React.js, Vue.js, Next.js, Go, Spring Boot**
-- 💬 Ask me about **React, Vue, Spring, Redis, Docker**
-- 📫 How to reach me **jjw6963@gmail.com**
+- 🌱 I’m currently learning **React.js, Next.js, Go, Spring Boot**
+- 💬 Ask me about **React, Spring, Redis, Docker**
+- 📫 How to reach me **honey9473@gmail.com**
 
 ---
 
