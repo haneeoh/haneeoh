@@ -45,14 +45,14 @@
 ## 🔭 Projects
 
 **[인사관리시스템 "Ondam"]**
-- https://github.com/jw6963/ondam
+- https://github.com/haneeoh/ondam
 
 **[비트코인 모의투자 플랫폼 "bitground"]**
-- https://github.com/jw6963/react-bitground
+- https://github.com/haneeoh/react-bitground
 
-- https://github.com/jw6963/spring-bitground
+- https://github.com/haneeoh/spring-bitground
 
-- https://github.com/jw6963/go-bitground
+- https://github.com/haneeoh/go-bitground
 
 
 ---
