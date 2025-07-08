@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JEON JONG WON</h1>
+<h1 align="center">Hi 👋, I'm Oh Hanee</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
 <p align="center">
