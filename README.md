@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -33,8 +32,8 @@
 
 ## 🛠️ Skills
 
-- **Languages:** Java, Python, JavaScript, Shell Script
-- **Frameworks & Libraries:** Spring, React, Vue
+- **Languages:** Java, JavaScript, Shell Script
+- **Frameworks & Libraries:** Spring, React
 - **Databases:** MySQL, Redis
 - **DevOps & CI/CD:** Docker, Jenkins, Terraform
 - **Monitoring:** Grafana
@@ -45,8 +44,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jw6963&show_icons=true&locale=en" alt="jw6963" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haneeoh&show_icons=true&locale=en" alt="haneeoh" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jw6963&" alt="jw6963" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haneeoh&" alt="haneeoh" />
 </p>
