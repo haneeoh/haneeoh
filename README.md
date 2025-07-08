@@ -42,6 +42,21 @@
 
 ---
 
+## 🔭 Projects
+
+**[인사관리시스템 "Ondam"]**
+- https://github.com/jw6963/ondam
+
+**[비트코인 모의투자 플랫폼 "bitground"]**
+- https://github.com/jw6963/react-bitground
+
+- https://github.com/jw6963/spring-bitground
+
+- https://github.com/jw6963/go-bitground
+
+
+---
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haneeoh&show_icons=true&locale=en" alt="haneeoh" />
